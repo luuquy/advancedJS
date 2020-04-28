@@ -1,10 +1,10 @@
 //Function constructor
 
-// var john = {
-//   name: "John",
-//   yearOfBirth: 1999,
-//   job: "student",
-// };
+var john = {
+  name: "John",
+  yearOfBirth: 1999,
+  job: "student",
+};
 
 var Person = function (name, yearOfBirth, job) {
   this.name = name;
